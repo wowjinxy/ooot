@@ -56,3 +56,8 @@ assets/
 
 # Per-user configuration
 .python-version
+src/code/z_kankyo_assets.h
+src/code/z_message_PAL_assets.h
+src/code/z_scene_assets.h
+src/code/z_scene_table_assets.h
+src/code/z_vr_box_assets.h
